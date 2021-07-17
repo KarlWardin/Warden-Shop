@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Warden-Shop/static/css/main.1a81d260.chunk.css",
+    "main.js": "/Warden-Shop/static/js/main.1699f61b.chunk.js",
+    "main.js.map": "/Warden-Shop/static/js/main.1699f61b.chunk.js.map",
+    "runtime-main.js": "/Warden-Shop/static/js/runtime-main.42afb060.js",
+    "runtime-main.js.map": "/Warden-Shop/static/js/runtime-main.42afb060.js.map",
+    "static/css/2.a4a91b47.chunk.css": "/Warden-Shop/static/css/2.a4a91b47.chunk.css",
+    "static/js/2.e42153ba.chunk.js": "/Warden-Shop/static/js/2.e42153ba.chunk.js",
+    "static/js/2.e42153ba.chunk.js.map": "/Warden-Shop/static/js/2.e42153ba.chunk.js.map",
+    "index.html": "/Warden-Shop/index.html",
+    "static/css/2.a4a91b47.chunk.css.map": "/Warden-Shop/static/css/2.a4a91b47.chunk.css.map",
+    "static/css/main.1a81d260.chunk.css.map": "/Warden-Shop/static/css/main.1a81d260.chunk.css.map",
+    "static/js/2.e42153ba.chunk.js.LICENSE.txt": "/Warden-Shop/static/js/2.e42153ba.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Warden-Shop/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42afb060.js",
+    "static/css/2.a4a91b47.chunk.css",
+    "static/js/2.e42153ba.chunk.js",
+    "static/css/main.1a81d260.chunk.css",
+    "static/js/main.1699f61b.chunk.js"
+  ]
+}
